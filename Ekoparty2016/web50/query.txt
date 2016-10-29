@@ -1,0 +1,1 @@
+echo "GET basic" | nc ctf.ekoparty.org 80

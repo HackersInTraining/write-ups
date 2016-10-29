@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /static/wIMti7Z27b.txt
