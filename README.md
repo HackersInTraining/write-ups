@@ -1,3 +1,4 @@
 # write-ups
 # Contact
-https://ctftime.org/team/23889
+  team.hit@zoho.com
+  https://ctftime.org/team/23889
